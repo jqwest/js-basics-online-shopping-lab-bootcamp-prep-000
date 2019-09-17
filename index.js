@@ -10,8 +10,8 @@ function setCart(c) {
 }
 
 function addToCart(item) {
- // addToCart() function accepts one argument, the name of an item.
-cart.push[item]
+ // write your code here
+ return item;
 }
 
 function viewCart() {
